@@ -40,6 +40,7 @@ div.box-1{
 }
 div.box-1 img{
     width: 750px;
+    padding-top: 15px;
 }
 div.box-2 img{
     max-width: 75px;

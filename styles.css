@@ -28,7 +28,7 @@ div.box-2{
     background: white;
     margin: auto;
     font-size: 25px;
-    padding: 25px;
+    padding: 0px;
     border-radius: 0px;
 }
 div.box-1{
@@ -44,7 +44,7 @@ div.box-1 img{
 div.box-2 img{
     max-width: 75px;
     max-height: 75px;
-    padding-top: 25px;
+    padding-top: 15px;
 }
 div.box-4 img{
     max-width: 75px;

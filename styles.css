@@ -1,0 +1,76 @@
+body{
+    background: #000000;
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+div.box-4 :first-child{
+    float: left;
+}
+div.box-4{
+    width: 700px;
+    background: white;
+    margin: auto;
+    font-size: 25px;
+    padding: 25px;
+    border-radius: 0px;;
+}
+div.box-3{
+    width: 700px;
+    background: white;
+    margin: auto;
+    font-size: 25px;
+    padding: 25px;
+    padding-bottom: 45px;
+    border-radius: 0px;
+}
+div.box-2{
+    width: 700px;
+    background: white;
+    margin: auto;
+    font-size: 25px;
+    padding: 25px;
+    border-radius: 0px;
+}
+div.box-1{
+    width: 750px;
+    background: white;
+    margin: auto;
+    border-radius: 0px;
+    padding-top: 25px;
+}
+div.box-1 img{
+    width: 750px;
+}
+div.box-2 img{
+    max-width: 75px;
+    max-height: 75px;
+    padding-top: 25px;
+}
+div.box-4 img{
+    max-width: 75px;
+    max-height: 75px;
+    float: left;
+}
+div.username{
+    font-size: 20px;
+}
+div.dots{
+    float: right;
+}
+div.left-img{
+    display: inline-block;
+    float: left;
+    width: 85%;
+    padding-bottom: 15px;
+}
+div.right-img{
+    display: inline-block;
+    width:15%;
+    float: right;
+    padding-bottom: 15px;
+}
+div.top-left{
+    float: left;
+    width: 25%;
+    display: inline-block;
+}
